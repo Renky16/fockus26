@@ -1,4 +1,4 @@
-<div align="center" style="padding: 1.5rem 0">
+<div align="center">
   <h1>Hi, I'm Cesar 👋</h1>
   <p><em>Full-Stack Developer | Web, Mobile & Automation | React, Node.js, Flutter</em></p>
 </div>
@@ -27,8 +27,8 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 ## 🚀 Featured Projects  
 
 <table>
-<tr style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; border: none;">
-<td>
+<tr>
+<td width="50%">
 <h3 align="center">🎟️ BotTickets – Web Automation</h3>
 <div align="center">
 <a href="https://github.com/Fockus26/BotTickets-CaseStudy" target="_blank">
@@ -43,7 +43,7 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 </div>
 </td>
 
-<td>
+<td width="50%">
 <h3 align="center">🛒 DonKampo – React E-commerce</h3>
 <div align="center">
 <a href="https://github.com/Fockus26/DonKampo-CaseStudy" target="_blank">
@@ -61,8 +61,8 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 </table>
 
 <table>
-<tr style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; border: none;">
-<td>
+<tr>
+<td width="50%">
 <h3 align="center">🔌 WordPress Plugin Customization</h3>
 <div align="center">
 <a href="https://github.com/Fockus26/InversionesJL22-CaseStudy" target="_blank">
@@ -77,7 +77,7 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 </div>
 </td>
 
-<td>
+<td width="50%">
 <h3 align="center">📱 La Nación Radio – Flutter App</h3>
 <div align="center">
 <a href="https://github.com/Fockus26/La-Nacion-Radio-Mobile-App-CaseStudy" target="_blank">
